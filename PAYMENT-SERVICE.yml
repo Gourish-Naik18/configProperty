@@ -1,7 +1,7 @@
 razorpay:
   key:
-    id: rzp_test_TXWlR15jfGY7IG
-    secret: dZQOybKvpqtd1PoEmTmIsAC9
+    id: 
+    secret: 
 
 spring:
   datasource:
